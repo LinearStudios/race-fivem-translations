@@ -116,8 +116,6 @@
     "chat_command_barnfindskip": "Pomiń licznik stodoły dla gracza",
     "chat_command_db_status": "Pokaż stan migracji",
     "chat_command_db_migrate": "Zastosuj oczekujące migracje",
-    "chat_command_fingerprints": "Wyświetl odciski połączonych graczy",
-    "chat_command_fingerprint": "Pokaż szczegółowy odcisk gracza",
     "chat_command_gp_launch": "Wymuś start Grand Prix (debug)",
     "chat_command_gp_podium": "Wymuś podium trwającego Grand Prix (debug)",
     "chat_command_gp_rejoin": "Symuluj ponowne połączenie po crashu w Grand Prix (debug)",

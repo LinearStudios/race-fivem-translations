@@ -116,8 +116,6 @@
     "chat_command_barnfindskip": "Saltar o temporizador de um celeiro para um jogador",
     "chat_command_db_status": "Mostrar o estado das migrações",
     "chat_command_db_migrate": "Aplicar as migrações pendentes",
-    "chat_command_fingerprints": "Listar as impressões dos jogadores ligados",
-    "chat_command_fingerprint": "Mostrar a impressão detalhada de um jogador",
     "chat_command_gp_launch": "Forçar o início de um Grande Prémio (debug)",
     "chat_command_gp_podium": "Forçar o pódio de um Grande Prémio em curso (debug)",
     "chat_command_gp_rejoin": "Simular uma reconexão após um crash num Grande Prémio (debug)",

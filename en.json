@@ -116,8 +116,6 @@
     "chat_command_barnfindskip": "Skip a barn find timer for a player",
     "chat_command_db_status": "Show the migration status",
     "chat_command_db_migrate": "Apply pending migrations",
-    "chat_command_fingerprints": "List connected players' fingerprints",
-    "chat_command_fingerprint": "Show a player's detailed fingerprint",
     "chat_command_gp_launch": "Force a Grand Prix to launch (debug)",
     "chat_command_gp_podium": "Force the podium of a running Grand Prix (debug)",
     "chat_command_gp_rejoin": "Simulate a reconnection after a crash in a Grand Prix (debug)",

@@ -116,8 +116,6 @@
     "chat_command_barnfindskip": "Salta il timer di un fienile per un giocatore",
     "chat_command_db_status": "Mostra lo stato delle migrazioni",
     "chat_command_db_migrate": "Applica le migrazioni in sospeso",
-    "chat_command_fingerprints": "Elenca le impronte dei giocatori connessi",
-    "chat_command_fingerprint": "Mostra l'impronta dettagliata di un giocatore",
     "chat_command_gp_launch": "Forza l'avvio di un Gran Premio (debug)",
     "chat_command_gp_podium": "Forza il podio di un Gran Premio in corso (debug)",
     "chat_command_gp_rejoin": "Simula una riconnessione dopo un crash in un Gran Premio (debug)",
