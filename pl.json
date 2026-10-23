@@ -281,6 +281,7 @@
     "vehicle_give_not_stored": "~r~Błąd~s~: Pojazd musi być w garażu, aby go przekazać.",
     "vehicle_stored": "~g~Pojazd schowany~s~ w garażu.",
     "vehicle_auctioned": "~r~Ten pojazd jest aktualnie wystawiany na aukcji.",
+    "vehicle_spawn_casino": "Nie możesz przywołać pojazdu w kasynie.",
     "vehicle_tuning_saved": "~g~Tuning zapisany!~s~\nKoszt: ~y~{0} CR",
     "vehicle_tuning_credits_short": "~r~Błąd~s~: Niewystarczające kredyty (~y~{0} CR~s~ wymagane).",
     "vehicle_tuning_payment_failed": "~r~Błąd~s~: Płatność za modyfikację nie powiodła się.",

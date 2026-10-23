@@ -284,6 +284,7 @@
     "vehicle_give_not_stored": "~r~Erreur~s~: Le véhicule doit être rangé au garage pour être donné.",
     "vehicle_stored": "~g~Véhicule rangé~s~ dans le garage.",
     "vehicle_auctioned": "~r~Ce véhicule est actuellement en vente aux enchères.",
+    "vehicle_spawn_casino": "Impossible de sortir un véhicule dans le casino.",
     "vehicle_tuning_saved": "~g~Tuning sauvegardé!~s~\nCoût: ~y~{0} CR",
     "vehicle_tuning_credits_short": "~r~Erreur~s~: Vous n'avez pas assez de Crédits (~y~{0} CR~s~ requis).",
     "vehicle_tuning_payment_failed": "~r~Erreur~s~: Échec du paiement des modifications.",

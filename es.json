@@ -281,6 +281,7 @@
     "vehicle_give_not_stored": "~r~Error~s~: El vehículo debe estar guardado en el garaje para poder darlo.",
     "vehicle_stored": "~g~Vehículo guardado~s~ en garaje.",
     "vehicle_auctioned": "~r~Este vehículo está actualmente en subasta.",
+    "vehicle_spawn_casino": "No puedes sacar un vehículo dentro del casino.",
     "vehicle_tuning_saved": "~g~¡Tuning guardado!~s~\nCoste: ~y~{0} CR",
     "vehicle_tuning_credits_short": "~r~Error~s~: Créditos insuficientes (~y~{0} CR~s~ requeridos).",
     "vehicle_tuning_payment_failed": "~r~Error~s~: Fallo en el pago de modificación.",

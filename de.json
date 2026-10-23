@@ -281,6 +281,7 @@
     "vehicle_give_not_stored": "~r~Fehler~s~: Das Fahrzeug muss in der Garage stehen, um es zu übergeben.",
     "vehicle_stored": "~g~Fahrzeug~s~ in Garage gespeichert.",
     "vehicle_auctioned": "~r~Dieses Fahrzeug wird derzeit versteigert.",
+    "vehicle_spawn_casino": "Im Casino kannst du kein Fahrzeug spawnen.",
     "vehicle_tuning_saved": "~g~Tuning gespeichert!~s~\nKosten: ~y~{0} CR",
     "vehicle_tuning_credits_short": "~r~Fehler~s~: Nicht genug Credits (~y~{0} CR~s~ erforderlich).",
     "vehicle_tuning_payment_failed": "~r~Fehler~s~: Modifikationszahlung fehlgeschlagen.",

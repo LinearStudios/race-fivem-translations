@@ -283,6 +283,7 @@
     "vehicle_give_not_stored": "~r~Error~s~: The vehicle must be stored in the garage to be given.",
     "vehicle_stored": "~g~Vehicle stored~s~ in garage.",
     "vehicle_auctioned": "~r~This vehicle is currently listed at auction.",
+    "vehicle_spawn_casino": "You cannot spawn a vehicle inside the casino.",
     "vehicle_tuning_saved": "~g~Tuning saved!~s~\nCost: ~y~{0} CR",
     "vehicle_tuning_credits_short": "~r~Error~s~: Not enough Credits (~y~{0} CR~s~ required).",
     "vehicle_tuning_payment_failed": "~r~Error~s~: Modification payment failed.",

@@ -281,6 +281,7 @@
     "vehicle_give_not_stored": "~r~Errore~s~: Il veicolo deve essere nel garage per poterlo dare.",
     "vehicle_stored": "~g~Veicolo riposto~s~ in garage.",
     "vehicle_auctioned": "~r~Questo veicolo è attualmente in asta.",
+    "vehicle_spawn_casino": "Non puoi far apparire un veicolo dentro il casinò.",
     "vehicle_tuning_saved": "~g~Tuning salvato!~s~\nCosto: ~y~{0} CR",
     "vehicle_tuning_credits_short": "~r~Errore~s~: Crediti insufficienti (~y~{0} CR~s~ richiesti).",
     "vehicle_tuning_payment_failed": "~r~Errore~s~: Pagamento modifica fallito.",
