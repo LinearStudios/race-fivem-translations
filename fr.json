@@ -32,6 +32,7 @@
     "ac_weapon_removed": "~r~Arme non autorisée retirée.~s~",
     "command_access_denied": "~r~Accès refusé~s~: Vous n'avez pas la permission requise",
     "chat_command_coords": "Obtenir vos coordonnées actuelles",
+    "chat_command_garagepoint": "Afficher votre position au format d'une place de garage",
     "chat_command_report": "Signaler un problème ou un joueur",
     "chat_command_tokenlink": "Lier votre compte Discord et gagner 50 000 crédits + 3 Wheelspins",
     "chat_command_skin": "Ouvrir le menu de personnalisation du personnage",

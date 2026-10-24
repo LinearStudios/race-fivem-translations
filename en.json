@@ -31,6 +31,7 @@
     "ac_weapon_removed": "~r~Unauthorized weapon removed.~s~",
     "command_access_denied": "~r~Access denied~s~: You do not have the required permission",
     "chat_command_coords": "Get your current coordinates",
+    "chat_command_garagepoint": "Print your position as a garage slot line",
     "chat_command_report": "Report a problem or a player",
     "chat_command_tokenlink": "Link your Discord account and earn 50,000 credits + 3 Wheelspins",
     "chat_command_skin": "Open the character customisation menu",
