@@ -1925,7 +1925,7 @@
     "property_guest_joined": "{0} entrou na tua casa.",
     "property_guest_declined": "Convite recusado ou expirado.",
     "property_guest_not_home": "Tens de estar na tua propriedade para convidar.",
-    "property_guest_full": "A tua casa está cheia (máx. 3 convidados).",
+    "property_guest_full": "A tua casa está cheia (máx. 16 pessoas).",
     "property_guest_unavailable": "Este jogador não está disponível.",
     "property_guest_already_invited": "Este jogador já tem um convite pendente.",
     "property_guest_instance_gone": "O convite já não é válido.",

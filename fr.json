@@ -1295,7 +1295,7 @@
     "property_guest_joined": "{0} a rejoint ta maison.",
     "property_guest_declined": "Invitation refusée ou expirée.",
     "property_guest_not_home": "Tu dois être dans ta propriété pour inviter.",
-    "property_guest_full": "Ta maison est pleine (3 invités max).",
+    "property_guest_full": "Ta maison est pleine (16 personnes max).",
     "property_guest_unavailable": "Ce joueur n'est pas disponible.",
     "property_guest_already_invited": "Ce joueur a déjà une invitation en attente.",
     "property_guest_instance_gone": "L'invitation n'est plus valide.",

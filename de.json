@@ -1925,7 +1925,7 @@
     "property_guest_joined": "{0} ist deinem Haus beigetreten.",
     "property_guest_declined": "Einladung abgelehnt oder abgelaufen.",
     "property_guest_not_home": "Du musst in deiner Immobilie sein, um einzuladen.",
-    "property_guest_full": "Dein Haus ist voll (max. 3 Gäste).",
+    "property_guest_full": "Dein Haus ist voll (max. 16 Personen).",
     "property_guest_unavailable": "Dieser Spieler ist nicht verfügbar.",
     "property_guest_already_invited": "Dieser Spieler hat bereits eine ausstehende Einladung.",
     "property_guest_instance_gone": "Die Einladung ist nicht mehr gültig.",

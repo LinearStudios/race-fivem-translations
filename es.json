@@ -1925,7 +1925,7 @@
     "property_guest_joined": "{0} se ha unido a tu casa.",
     "property_guest_declined": "Invitación rechazada o caducada.",
     "property_guest_not_home": "Debes estar en tu propiedad para invitar.",
-    "property_guest_full": "Tu casa está llena (máx. 3 invitados).",
+    "property_guest_full": "Tu casa está llena (máx. 16 personas).",
     "property_guest_unavailable": "Este jugador no está disponible.",
     "property_guest_already_invited": "Este jugador ya tiene una invitación pendiente.",
     "property_guest_instance_gone": "La invitación ya no es válida.",

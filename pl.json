@@ -1925,7 +1925,7 @@
     "property_guest_joined": "{0} dołączył do twojego domu.",
     "property_guest_declined": "Zaproszenie odrzucone lub wygasłe.",
     "property_guest_not_home": "Musisz być w swojej nieruchomości, aby zapraszać.",
-    "property_guest_full": "Twój dom jest pełny (maks. 3 gości).",
+    "property_guest_full": "Twój dom jest pełny (maks. 16 osób).",
     "property_guest_unavailable": "Ten gracz jest niedostępny.",
     "property_guest_already_invited": "Ten gracz ma już oczekujące zaproszenie.",
     "property_guest_instance_gone": "Zaproszenie jest już nieważne.",
