@@ -123,6 +123,7 @@
     "chat_command_barnfindskip": "Scheunenfund-Timer für einen Spieler überspringen",
     "chat_command_db_status": "Migrationsstatus anzeigen",
     "chat_command_db_migrate": "Ausstehende Migrationen anwenden",
+    "chat_command_txadmin": "txAdmin-Verbindungsstatus anzeigen",
     "chat_command_gp_launch": "Start eines Grand Prix erzwingen (Debug)",
     "chat_command_gp_podium": "Podium eines laufenden Grand Prix erzwingen (Debug)",
     "chat_command_gp_rejoin": "Wiederverbindung nach Absturz in einem Grand Prix simulieren (Debug)",

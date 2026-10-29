@@ -126,6 +126,7 @@
     "chat_command_barnfindskip": "Passer le minuteur d'une grange pour un joueur",
     "chat_command_db_status": "Afficher l'état des migrations",
     "chat_command_db_migrate": "Appliquer les migrations en attente",
+    "chat_command_txadmin": "Afficher l'état de la connexion à txAdmin",
     "chat_command_gp_launch": "Forcer le lancement d'un Grand Prix (debug)",
     "chat_command_gp_podium": "Forcer le podium d'un Grand Prix en cours (debug)",
     "chat_command_gp_rejoin": "Simuler une reconnexion après crash dans un Grand Prix (debug)",

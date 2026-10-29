@@ -123,6 +123,7 @@
     "chat_command_barnfindskip": "Saltar el temporizador de un granero para un jugador",
     "chat_command_db_status": "Mostrar el estado de las migraciones",
     "chat_command_db_migrate": "Aplicar las migraciones pendientes",
+    "chat_command_txadmin": "Mostrar el estado de la conexión con txAdmin",
     "chat_command_gp_launch": "Forzar el inicio de un Gran Premio (debug)",
     "chat_command_gp_podium": "Forzar el podio de un Gran Premio en curso (debug)",
     "chat_command_gp_rejoin": "Simular una reconexión tras un crash en un Gran Premio (debug)",
